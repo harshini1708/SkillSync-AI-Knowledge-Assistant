@@ -85,9 +85,6 @@ Distributed under MIT License.
 
 ## Architecture
 
-
-## Architecture
-
 ```mermaid
 flowchart LR
     subgraph Frontend [Frontend - Next.js]
@@ -124,3 +121,4 @@ flowchart LR
     API --> UserDB
     API --> DocMeta
 ```
+// Initialize project with README and license info
