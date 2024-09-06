@@ -1,3 +1,4 @@
 Initialize project structure with Next.js and Tailwind CSS
 Add OpenAI API integration logic
 Set up PostgreSQL schema with Prisma
+Implement embedding pipeline for document ingestion
