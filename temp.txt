@@ -3,3 +3,4 @@ Add OpenAI API integration logic
 Set up PostgreSQL schema with Prisma
 Implement embedding pipeline for document ingestion
 Add Clerk authentication setup
+Configure Docker for local development
