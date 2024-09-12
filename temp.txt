@@ -5,3 +5,4 @@ Implement embedding pipeline for document ingestion
 Add Clerk authentication setup
 Configure Docker for local development
 Create reusable UI components
+Implement file upload and chunking logic
