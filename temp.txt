@@ -7,3 +7,4 @@ Configure Docker for local development
 Create reusable UI components
 Implement file upload and chunking logic
 Integrate vector search with LangChain
+Design embeddings database structure
