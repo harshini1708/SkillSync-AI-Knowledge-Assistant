@@ -9,3 +9,4 @@ Implement file upload and chunking logic
 Integrate vector search with LangChain
 Design embeddings database structure
 Add protected dashboard view
+Implement question-answering logic
