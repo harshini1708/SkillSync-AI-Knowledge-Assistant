@@ -11,3 +11,4 @@ Design embeddings database structure
 Add protected dashboard view
 Implement question-answering logic
 Fix layout styling and Tailwind bugs
+Optimize embedding API calls
