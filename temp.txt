@@ -13,3 +13,4 @@ Implement question-answering logic
 Fix layout styling and Tailwind bugs
 Optimize embedding API calls
 Add support for PDF and Markdown ingestion
+Write utility functions for text parsing
