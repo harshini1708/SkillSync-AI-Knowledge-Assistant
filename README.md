@@ -122,3 +122,4 @@ flowchart LR
     API --> DocMeta
 ```
 // Initialize project with README and license info
+// Update README with architecture diagram
