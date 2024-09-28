@@ -16,3 +16,4 @@ Add support for PDF and Markdown ingestion
 Write utility functions for text parsing
 Improve responsiveness of UI components
 Add multi-LLM support toggle
+Write documentation and setup instructions
