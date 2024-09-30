@@ -17,3 +17,4 @@ Write utility functions for text parsing
 Improve responsiveness of UI components
 Add multi-LLM support toggle
 Write documentation and setup instructions
+Update README with architecture diagram
