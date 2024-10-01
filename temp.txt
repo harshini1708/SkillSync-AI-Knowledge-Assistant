@@ -18,3 +18,4 @@ Improve responsiveness of UI components
 Add multi-LLM support toggle
 Write documentation and setup instructions
 Update README with architecture diagram
+Final testing and cleanup
